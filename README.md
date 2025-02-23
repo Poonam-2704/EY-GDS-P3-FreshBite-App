@@ -31,17 +31,19 @@
 git clone https://github.com/Poonam-2704/EY-GDS-P3-FreshBite-App.git 
  
 
-📜 License
+## 📜 License
+
+
 This project is licensed under the MIT License.
 
 
-🚀 Contributing
+## 🚀 Contributing
 🎉 Want to contribute? Follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Make your changes and commit (git commit -m "Added new feature").
-Push to the branch (git push origin feature-name).
-Submit a Pull Request (PR).
-Your contributions are highly appreciated! 💙
+Fork the repository.  
+Create a new branch (git checkout -b feature-name).  
+Make your changes and commit (git commit -m "Added new feature").  
+Push to the branch (git push origin feature-name).   
+Submit a Pull Request (PR).   
+Your contributions are highly appreciated! 💙  
 
