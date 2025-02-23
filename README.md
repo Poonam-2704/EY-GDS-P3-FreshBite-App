@@ -26,9 +26,10 @@
 
 ---
 
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/Poonam-2704/EY-GDS-P3-FreshBite-App.git
+## Clone the Repository
+
+git clone https://github.com/Poonam-2704/EY-GDS-P3-FreshBite-App.git 
+ 
 
 📜 License
 This project is licensed under the MIT License.
