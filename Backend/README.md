@@ -1,6 +1,3 @@
-Here's the same README file, formatted for GitHub:
-
-```markdown
 # User Authentication API
 
 This is a simple Node.js API for user registration and login functionality. It uses Express.js, MongoDB with Mongoose for database handling, and bcryptjs for password hashing.
