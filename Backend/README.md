@@ -24,7 +24,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/user-auth-api.git
+git clone [https://github.com/Poonam-2704/EY-GDS-P3-FreshBite-App/tree/main/Backend]
 cd user-auth-api
 ```
 
@@ -43,11 +43,9 @@ npm install
 Create a `.env` file in the root directory of the project and add the following:
 
 ```
-MONGO_URI=your_mongo_connection_string
+MONGO_URI=mongodb+srv://<username>:<db_password>@cluster0.dtfss.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 PORT=5000
 ```
-
-Replace `your_mongo_connection_string` with your MongoDB connection URI.
 
 ### 4. Start the server
 
@@ -112,5 +110,3 @@ Response:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Just replace `your-username` with your GitHub username, and you can update any other specific details for your project!
