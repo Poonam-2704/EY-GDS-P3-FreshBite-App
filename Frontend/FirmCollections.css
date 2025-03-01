@@ -1,0 +1,100 @@
+.firmCollectionContainer {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .pageTitle {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .searchBarContainer {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .searchBar {
+    padding: 10px;
+    width: 60%;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+  }
+  
+  .filterButtons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .filterButtons button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #f0f0f0;
+  }
+  
+  .activeButton {
+    background-color: #ff5733;
+    color: white;
+  }
+  
+  .firmSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .firmGroupBox {
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+    transition: transform 0.2s;
+  }
+  
+  .firmGroupBox:hover {
+    transform: scale(1.05);
+  }
+  
+  .firmGroup img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .firmOffer {
+    background: #ff5733;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .firmRating {
+    color: #ffb400;
+    font-weight: bold;
+  }
+  
+  .firmDeliveryTime {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .loadingSection {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .errorMessage {
+    color: red;
+    font-weight: bold;
+  }
+  
